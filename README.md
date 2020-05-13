@@ -6,3 +6,5 @@ Issues? My Discord: Arathon#4955
 ![Login Page](unknown.png)
 
 ![Register Page](unknown1.png)
+
+![Discord Logs](unknown2.png)
